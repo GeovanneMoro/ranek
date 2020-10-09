@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ranek/static/css/main.db480485.chunk.css",
+    "main.js": "/ranek/static/js/main.2a08e3b8.chunk.js",
+    "main.js.map": "/ranek/static/js/main.2a08e3b8.chunk.js.map",
+    "runtime-main.js": "/ranek/static/js/runtime-main.162079f5.js",
+    "runtime-main.js.map": "/ranek/static/js/runtime-main.162079f5.js.map",
+    "static/js/2.ae4fbcd5.chunk.js": "/ranek/static/js/2.ae4fbcd5.chunk.js",
+    "static/js/2.ae4fbcd5.chunk.js.map": "/ranek/static/js/2.ae4fbcd5.chunk.js.map",
+    "index.html": "/ranek/index.html",
+    "precache-manifest.13b8d39828b2d504d52116d4e84b0393.js": "/ranek/precache-manifest.13b8d39828b2d504d52116d4e84b0393.js",
+    "service-worker.js": "/ranek/service-worker.js",
+    "static/css/main.db480485.chunk.css.map": "/ranek/static/css/main.db480485.chunk.css.map",
+    "static/js/2.ae4fbcd5.chunk.js.LICENSE.txt": "/ranek/static/js/2.ae4fbcd5.chunk.js.LICENSE.txt",
+    "static/media/contato.jpg": "/ranek/static/media/contato.20d1d7bb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.162079f5.js",
+    "static/js/2.ae4fbcd5.chunk.js",
+    "static/css/main.db480485.chunk.css",
+    "static/js/main.2a08e3b8.chunk.js"
+  ]
+}
