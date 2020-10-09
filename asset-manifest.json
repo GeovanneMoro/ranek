@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ranek/static/css/main.d14de206.chunk.css",
-    "main.js": "/ranek/static/js/main.088bc419.chunk.js",
-    "main.js.map": "/ranek/static/js/main.088bc419.chunk.js.map",
+    "main.js": "/ranek/static/js/main.8891ab74.chunk.js",
+    "main.js.map": "/ranek/static/js/main.8891ab74.chunk.js.map",
     "runtime-main.js": "/ranek/static/js/runtime-main.162079f5.js",
     "runtime-main.js.map": "/ranek/static/js/runtime-main.162079f5.js.map",
     "static/js/2.ae4fbcd5.chunk.js": "/ranek/static/js/2.ae4fbcd5.chunk.js",
     "static/js/2.ae4fbcd5.chunk.js.map": "/ranek/static/js/2.ae4fbcd5.chunk.js.map",
     "index.html": "/ranek/index.html",
-    "precache-manifest.f2157ad63049468112349a17987f6e99.js": "/ranek/precache-manifest.f2157ad63049468112349a17987f6e99.js",
+    "precache-manifest.5a9832cc757da5068c2852293d8d721c.js": "/ranek/precache-manifest.5a9832cc757da5068c2852293d8d721c.js",
     "service-worker.js": "/ranek/service-worker.js",
     "static/css/main.d14de206.chunk.css.map": "/ranek/static/css/main.d14de206.chunk.css.map",
     "static/js/2.ae4fbcd5.chunk.js.LICENSE.txt": "/ranek/static/js/2.ae4fbcd5.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.162079f5.js",
     "static/js/2.ae4fbcd5.chunk.js",
     "static/css/main.d14de206.chunk.css",
-    "static/js/main.088bc419.chunk.js"
+    "static/js/main.8891ab74.chunk.js"
   ]
 }
